@@ -81,7 +81,6 @@ form .input-field:first-child {
     position: absolute;
     height: 1px;
     width: 100%;
-    background: rgba(0, 0, 0, 0.2);
     bottom: -5px;
     left: 0;
     
