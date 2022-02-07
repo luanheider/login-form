@@ -110,7 +110,7 @@ form input[type="submit"] {
     border-radius: 4px;
     transition: all 0.3s ease;
 }
-/* para largura do bottom */
+/* para largura do button */
 form {
     display: flex;
     flex-direction: column;
